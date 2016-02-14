@@ -1,0 +1,21 @@
+{
+  "headings": [
+    {
+      "name": "Path",
+      "colspan": 1
+    },
+    {
+      "name": "Filename",
+      "colspan": 1
+    },
+    {
+      "name": "Actions",
+      "colspan": 3
+    }
+  ],
+  "actions": {
+    "tags": ["head", "body"],
+    "types": ["append", "prepend"]
+  },
+  "labels": ["Files", "Rules", "Versions"]
+}
